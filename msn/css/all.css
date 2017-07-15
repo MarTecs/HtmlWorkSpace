@@ -1,0 +1,131 @@
+  * {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  body {
+    background-color: #f4f4f2;
+  }
+
+  #container {
+    width: 1530px;
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    margin-left: -765px;
+    margin-bottom: -100px;
+  }
+
+  #show h2 {
+    font-size: 20px;
+    color: #000;
+    font-family: "segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;
+    font-weight: normal;
+    margin-top: 90px;
+    height: 57.4px;
+  }
+
+  #show ul {
+    width: 1530px;
+    height: 120px;
+  }
+
+  #show li {
+    float: left;
+    list-style: none;
+    width: 160px;
+    height: 132px;
+    margin-left: 35.65px;
+  }
+
+  .data-show {
+    width: 160px;
+    height: 132px;
+  }
+
+  #li-jd {
+    margin-left: 0px !important;
+  }
+
+  .data-show img {
+    width: 32px;
+    height: 32px;
+    margin:  auto;
+    display: block;
+    padding-top: 20px;
+  }
+
+  .data-show h4{
+    font-weight: normal;
+    font-style: "segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;
+    font-size: 15px;
+    width: 160px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .data-show:hover {
+    cursor: pointer;
+  }
+
+  .data-nav {
+    width: 322px;
+    height: 215px;
+    margin-right: 40.2px;
+    background-color: rgb(255,255,255);
+    margin-top: 40px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+
+  }
+
+
+  .data-title h3{
+    font-weight: normal;
+    font-style: "segoe ui","microsoft jhenghei","microsoft mhei",stheititc,sans-serif;
+    margin-bottom: 8px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    padding-bottom: 8px;
+    margin-top: 10px;
+  }
+
+  .data-nav li {
+    list-style: none;
+    float: left;
+    color: black;
+    margin-top: 25px;
+    width: 107.3px;
+  }
+
+  .data-nav a, #footer a {
+    text-decoration: none;
+    color: rgb(43,43,43);
+  }
+
+  .data-nav a:hover, #footer a:hover {
+    text-decoration: underline;
+  }
+
+  #shopping, #mall, #military, #jobs {
+    margin-right: 0px;
+  }
+
+
+  #footer {
+    width: 1530px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: -765px;
+    margin-top: 70%;
+  }
+
+  #footer img {
+    float: left;
+  }
+
+  #footer li {
+    list-style: none;
+    margin-top: 8px;
+  }
